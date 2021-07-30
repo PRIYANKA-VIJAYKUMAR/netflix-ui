@@ -1,5 +1,5 @@
-const tabItems=document.querySelectorAll('.tab-items');
-const tabContentItems=document.querySelectorAll('.tab-content-items');
+const tabItems=document.querySelectorAll('.tab-item');
+const tabContentItems=document.querySelectorAll('.tab-content-item');
 
 //select tab content item
 function selectItem(e){
